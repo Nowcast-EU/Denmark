@@ -286,8 +286,8 @@
 {{#if O1}}
   <div class="row page-break">
     <div class="left">
-      <div class="circle" style="background-color: #11f411;"></div>
-      <span style="color: #11f411; font-weight: bold;">O:</span>
+      <div class="circle" style="background-color: #FCD03B;"></div>
+      <span style="color: #FCD03B; font-weight: bold;">O:</span>
     </div>
     <div class="middle">{{O1}}</div>
     <div class="right"><span style="color: {{Colour_O}};"><i>{{O%}}</i></span></div>
@@ -480,8 +480,8 @@
 {{#if O2}}
   <div class="row page-break">
     <div class="left">
-      <div class="circle" style="background-color: #11f411;"></div>
-      <span style="color: #11f411; font-weight: bold;">O:</span>
+      <div class="circle" style="background-color: #FCD03B;"></div>
+      <span style="color: #FCD03B; font-weight: bold;">O:</span>
     </div>
     <div class="middle">{{O2}}</div>
     <div class="right"><span style="color: {{Colour_O}};"><i>{{O%}}</i></span></div>
@@ -674,8 +674,8 @@
 {{#if O3}}
   <div class="row page-break">
     <div class="left">
-      <div class="circle" style="background-color: #11f411;"></div>
-      <span style="color: #11f411; font-weight: bold;">O:</span>
+      <div class="circle" style="background-color: #FCD03B;"></div>
+      <span style="color: #FCD03B; font-weight: bold;">O:</span>
     </div>
     <div class="middle">{{O3}}</div>
     <div class="right"><span style="color: {{Colour_O}};"><i>{{O%}}</i></span></div>
@@ -832,8 +832,8 @@
 {{#if O4}}
   <div class="row page-break">
     <div class="left">
-      <div class="circle" style="background-color: #11f411;"></div>
-      <span style="color: #11f411; font-weight: bold;">O:</span>
+      <div class="circle" style="background-color: #FCD03B;"></div>
+      <span style="color: #FCD03B; font-weight: bold;">O:</span>
     </div>
     <div class="middle">{{O4}}</div>
     <div class="right"><span style="color: {{Colour_O}};"><i>{{O%}}</i></span></div>
@@ -990,8 +990,8 @@
 {{#if O5}}
   <div class="row page-break">
     <div class="left">
-      <div class="circle" style="background-color: #11f411;"></div>
-      <span style="color: #11f411; font-weight: bold;">O:</span>
+      <div class="circle" style="background-color: #FCD03B;"></div>
+      <span style="color: #FCD03B; font-weight: bold;">O:</span>
     </div>
     <div class="middle">{{O5}}</div>
     <div class="right"><span style="color: {{Colour_O}};"><i>{{O%}}</i></span></div>
@@ -1175,32 +1175,32 @@
       <div style="width: {{Æ11}}; background-color: #01438f;"></div>
       <div style="width: {{Æ12}}; background-color: #01438f;"></div>
       <div style="width: {{Æ13}}; background-color: #01438f;"></div>
-      <div style="width: {{PrevO1}}; background-color: #fcd03b;"></div>
-      <div style="width: {{PrevO2}}; background-color: #fcd03b;"></div>
-      <div style="width: {{PrevO3}}; background-color: #fcd03b;"></div>
-      <div style="width: {{PrevO4}}; background-color: #fcd03b;"></div>
-      <div style="width: {{PrevO5}}; background-color: #fcd03b;"></div>
-      <div style="width: {{PrevO6}}; background-color: #fcd03b;"></div>
-      <div style="width: {{PrevO7}}; background-color: #fcd03b;"></div>
-      <div style="width: {{PrevO8}}; background-color: #fcd03b;"></div>
-      <div style="width: {{PrevO9}}; background-color: #fcd03b;"></div>
-      <div style="width: {{PrevO10}}; background-color: #fcd03b;"></div>
-      <div style="width: {{PrevO11}}; background-color: #fcd03b;"></div>
-      <div style="width: {{PrevO12}}; background-color: #fcd03b;"></div>
-      <div style="width: {{PrevO13}}; background-color: #fcd03b;"></div>
-      <div style="width: {{PrevH1}}; background-color: #00B0F0;"></div>
-      <div style="width: {{PrevH2}}; background-color: #00B0F0;"></div>
-      <div style="width: {{PrevH3}}; background-color: #00B0F0;"></div>
-      <div style="width: {{PrevH4}}; background-color: #00B0F0;"></div>
-      <div style="width: {{PrevH5}}; background-color: #00B0F0;"></div>
-      <div style="width: {{PrevH6}}; background-color: #00B0F0;"></div>
-      <div style="width: {{PrevH7}}; background-color: #00B0F0;"></div>
-      <div style="width: {{PrevH8}}; background-color: #00B0F0;"></div>
-      <div style="width: {{PrevH9}}; background-color: #00B0F0;"></div>
-      <div style="width: {{PrevH10}}; background-color: #00B0F0;"></div>
-      <div style="width: {{PrevH11}}; background-color: #00B0F0;"></div>
-      <div style="width: {{PrevH12}}; background-color: #00B0F0;"></div>
-      <div style="width: {{PrevH13}}; background-color: #00B0F0;"></div>
+      <div style="width: {{O1}}; background-color: #fcd03b;"></div>
+      <div style="width: {{O2}}; background-color: #fcd03b;"></div>
+      <div style="width: {{O3}}; background-color: #fcd03b;"></div>
+      <div style="width: {{O4}}; background-color: #fcd03b;"></div>
+      <div style="width: {{O5}}; background-color: #fcd03b;"></div>
+      <div style="width: {{O6}}; background-color: #fcd03b;"></div>
+      <div style="width: {{O7}}; background-color: #fcd03b;"></div>
+      <div style="width: {{O8}}; background-color: #fcd03b;"></div>
+      <div style="width: {{O9}}; background-color: #fcd03b;"></div>
+      <div style="width: {{O10}}; background-color: #fcd03b;"></div>
+      <div style="width: {{O11}}; background-color: #fcd03b;"></div>
+      <div style="width: {{O12}}; background-color: #fcd03b;"></div>
+      <div style="width: {{O13}}; background-color: #fcd03b;"></div>
+      <div style="width: {{H1}}; background-color: #00B0F0;"></div>
+      <div style="width: {{H2}}; background-color: #00B0F0;"></div>
+      <div style="width: {{H3}}; background-color: #00B0F0;"></div>
+      <div style="width: {{H4}}; background-color: #00B0F0;"></div>
+      <div style="width: {{H5}}; background-color: #00B0F0;"></div>
+      <div style="width: {{H6}}; background-color: #00B0F0;"></div>
+      <div style="width: {{H7}}; background-color: #00B0F0;"></div>
+      <div style="width: {{H8}}; background-color: #00B0F0;"></div>
+      <div style="width: {{H9}}; background-color: #00B0F0;"></div>
+      <div style="width: {{H10}}; background-color: #00B0F0;"></div>
+      <div style="width: {{H11}}; background-color: #00B0F0;"></div>
+      <div style="width: {{H12}}; background-color: #00B0F0;"></div>
+      <div style="width: {{H13}}; background-color: #00B0F0;"></div>
     </div>
   </div>
 </div>
@@ -1226,7 +1226,7 @@
       <div style="width: {{PrevI}}; background-color: #40b2bd;"></div>
       <div style="width: {{PrevÆ}}; background-color: #01438f;"></div>
       <div style="width: {{PrevO}}; background-color: #fcd03b;"></div>
-      <div style="width: {{PrevH}}; background-color: #00B0F0;"></div>
+      <div style="width: {{PrevD}}; background-color: #375623;"></div>
 
   </div>
 </div>
